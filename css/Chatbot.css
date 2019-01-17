@@ -2,8 +2,19 @@ h2 {
     text-align: center;
 }
 
+body {
+      background-image: url(../ressources/Images/image-bg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
 .navbar {
-    background-color:#3E5C9A;
+}
+
+.nav-link {
+    color:white !important;
 }
 
 .navbar-brand {
@@ -15,4 +26,6 @@ h2 {
 
 .jobssection {
     margin-top: 90px;
+  
 }
+
